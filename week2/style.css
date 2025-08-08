@@ -1,0 +1,17 @@
+p {
+    color: blue;
+}
+.blue {
+    color: cadetblue;
+}
+/*
+This is a class ment to goo goo gagagagaga
+*/
+.bold {
+    font-weight: bold;
+}
+
+#info-para,
+li {
+    border: 1rem solid red;
+}
